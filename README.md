@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Tygo! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on building cool and efficient projects. My work spans across multiple languages and platforms.
 
