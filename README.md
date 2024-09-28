@@ -26,5 +26,5 @@ Here are some of the things I've been working on:
 Feel free to explore my repositories and connect with me!
 
 ### 💬 Let's Connect
-- X/Twitter: [Your Twitter Handle]
+- X/Twitter: [Click the link](https://x.com/tygocodes)
 - Discord: ohtygo
