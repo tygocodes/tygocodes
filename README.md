@@ -27,4 +27,4 @@ Feel free to explore my repositories and connect with me!
 
 ### 💬 Let's Connect
 - X/Twitter: [Click the link](https://x.com/tygocodes)
-- Discord: ohtygo
+- Discord: straatlegal
